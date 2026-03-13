@@ -1,0 +1,5 @@
+scenario_id,tax_profile,event_state,war_demand_override,route_block_override,anti_monopoly_state
+基线_7日,平衡档,常态,none,none,off
+军需拉升场景,平衡档,常态,朔砂军需市:军需+0.18|伏龙渊火市:远征+0.22,none,off
+高税改线场景,掠夺档,常态,none,断云关税市:税压+0.20|朔砂军需市:税压+0.12,off
+高端资源挤压场景,平衡档,常态,朔砂军需市:高端资源+0.12|伏龙渊火市:高端资源+0.18,朔砂军需市:高端资源-0.20|伏龙渊火市:高端资源-0.16,substitute_output+10%|black_market_relief:on

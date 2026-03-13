@@ -1,0 +1,15 @@
+source_type,sink_type,module_owner,daily_estimate,player_segment,elasticity,notes
+匪巢赏金,,07_PvE玩法,110,seg_new_highan,0.20,高安教学期稳定银两注入
+订单结算,,06_市场交易与运输,48,seg_casual_short_trade,0.35,普通货与急件的稳定收益
+制造售卖,,05_制造采集与经济,62,seg_growth_crafter,0.30,高安与低安配方出售带来的净流入
+军需补贴,,09_帮派社交与政治经济,95,seg_hardcore_lowsec,0.45,军需与护镖补贴
+军需补贴,,09_帮派社交与政治经济,120,seg_guild_logistics,0.40,帮派后勤补贴
+,交易税,06_市场交易与运输,36,seg_casual_short_trade,0.55,交易税平衡档5%
+,交易税,06_市场交易与运输,42,seg_growth_crafter,0.50,成品售卖回收
+,过路税,06_市场交易与运输,28,seg_hardcore_lowsec,0.60,断云与朔砂经停
+,资源税,09_帮派社交与政治经济,24,seg_guild_logistics,0.65,危险区资源点抽水
+,保险费,06_市场交易与运输,18,seg_hardcore_lowsec,0.45,低安护镖保费
+,修理费,04_物品与资产,16,seg_new_highan,0.25,稳定小额回收
+,修理费,04_物品与资产,24,seg_hardcore_lowsec,0.35,重装速刷损耗
+,制造设施费,05_制造采集与经济,30,seg_growth_crafter,0.40,炉湾与药炉维护
+,帮派维护费,09_帮派社交与政治经济,26,seg_guild_logistics,0.50,仓站与驿厩分摊

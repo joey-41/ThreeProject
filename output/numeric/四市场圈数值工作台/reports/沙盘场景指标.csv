@@ -1,0 +1,5 @@
+scenario_id,sink_source_ratio,profitable_route_count,route_destination_concentration,reroute_rate,inventory_backlog_ratio,heat_drift_index,recipe_margin_floor,lowsec_skill_return,danger_skill_return,danger_unskilled_floor,system_sources,system_sinks
+基线_7日,0.9476,22,0.2619,0.2791,0.1117,0.2012,0.369,1.1643,1.3561,0.942,3045.0,2885.34
+军需拉升场景,0.9475,22,0.2024,0.1951,0.1115,0.2216,0.4551,1.1689,1.3967,0.9354,3308.5,3134.9
+高税改线场景,1.0503,13,0.8571,0.4,0.1138,0.4493,0.369,1.2346,1.0,1.0,3015.26,3166.92
+高端资源挤压场景,0.9118,22,0.2619,0.2791,0.1084,0.2012,0.369,1.1643,1.3561,0.942,3182.78,2901.93

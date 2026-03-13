@@ -1,0 +1,11 @@
+metric_id,metric_name,target_min,target_max,scenario_focus,pass_rule,notes
+sink_source_ratio,银两日回收与日注入比,0.85,0.95,基线_7日,落在安全水位区间内,首轮默认安全水位
+profitable_route_count,长期可跑盈利线数量,3,99,基线_7日,不少于3条,不能全部汇聚到同一子市场
+route_destination_concentration,盈利线终点集中度,0.00,0.45,基线_7日,不能过度集中,防止所有利润线只流向一个终点
+reroute_rate,高税场景改线率,0.20,0.60,高税改线场景,出现合理改线而非全线停摆,过低说明税压无感过高说明原线路崩坏
+inventory_backlog_ratio,库存积压率,0.00,0.25,基线_7日,不能持续积压,高于上限说明供需结构失衡
+heat_drift_index,子市场热度偏移,0.00,0.35,基线_7日,热度应有偏移但不能极端挤爆,观察是否出现单点吸血
+recipe_margin_floor,配方最低毛利率,0.05,0.40,基线_7日,不能出现长期倒挂,用于排查理论成本倒挂
+lowsec_skill_return,低安熟练净收益倍数,1.10,1.22,基线_7日,接近总纲1.16x,以低安熟练段对高安基线比较
+danger_skill_return,危险区熟练净收益倍数,1.30,1.45,基线_7日,接近总纲1.38x,以危险区熟练段对高安基线比较
+danger_unskilled_floor,危险区不熟练净收益底线,0.88,1.00,基线_7日,不能逼迫所有人下危险区,低于下限说明挫败过强

@@ -1,0 +1,390 @@
+{
+  "scenario_results": {
+    "基线_7日": {
+      "scenario_id": "基线_7日",
+      "sink_source_ratio": 0.9476,
+      "profitable_route_count": 22,
+      "route_destination_concentration": 0.2619,
+      "reroute_rate": 0.2791,
+      "inventory_backlog_ratio": 0.1117,
+      "heat_drift_index": 0.2012,
+      "recipe_margin_floor": 0.369,
+      "lowsec_skill_return": 1.1643,
+      "danger_skill_return": 1.3561,
+      "danger_unskilled_floor": 0.942,
+      "system_sources": 3045.0,
+      "system_sinks": 2885.34,
+      "top_routes": [
+        {
+          "route_key": "封渡榜墙市->雾泽黑契市",
+          "good_name": "保单底册",
+          "profit": 432.93
+        },
+        {
+          "route_key": "黑风矿兵市->断云关税市",
+          "good_name": "黑铁矿",
+          "profit": 411.14
+        },
+        {
+          "route_key": "黑风矿兵市->断云关税市",
+          "good_name": "青钢锭",
+          "profit": 398.24
+        },
+        {
+          "route_key": "黑风矿兵市->断云关税市",
+          "good_name": "黑风皮",
+          "profit": 381.32
+        },
+        {
+          "route_key": "临渚官仓市->青蒲药材市",
+          "good_name": "基础铁料",
+          "profit": 336.04
+        }
+      ],
+      "top_recipe_ids": [
+        {
+          "recipe_id": "rec_003",
+          "avg_margin": 0.5743
+        },
+        {
+          "recipe_id": "rec_010",
+          "avg_margin": 0.5426
+        },
+        {
+          "recipe_id": "rec_009",
+          "avg_margin": 0.4762
+        },
+        {
+          "recipe_id": "rec_011",
+          "avg_margin": 0.4762
+        },
+        {
+          "recipe_id": "rec_015",
+          "avg_margin": 0.4402
+        }
+      ],
+      "segment_net": {
+        "seg_new_highan": 847.33,
+        "seg_casual_short_trade": 713.04,
+        "seg_growth_crafter": 2976.61,
+        "seg_hardcore_lowsec": 1356.56,
+        "seg_guild_logistics": 4793.79
+      }
+    },
+    "军需拉升场景": {
+      "scenario_id": "军需拉升场景",
+      "sink_source_ratio": 0.9475,
+      "profitable_route_count": 22,
+      "route_destination_concentration": 0.2024,
+      "reroute_rate": 0.1951,
+      "inventory_backlog_ratio": 0.1115,
+      "heat_drift_index": 0.2216,
+      "recipe_margin_floor": 0.4551,
+      "lowsec_skill_return": 1.1689,
+      "danger_skill_return": 1.3967,
+      "danger_unskilled_floor": 0.9354,
+      "system_sources": 3308.5,
+      "system_sinks": 3134.9,
+      "top_routes": [
+        {
+          "route_key": "朔砂军需市->伏龙渊火市",
+          "good_name": "黑砂矿",
+          "profit": 840.45
+        },
+        {
+          "route_key": "断云关税市->朔砂军需市",
+          "good_name": "借道军粮",
+          "profit": 686.8
+        },
+        {
+          "route_key": "黑风矿兵市->断云关税市",
+          "good_name": "青钢锭",
+          "profit": 419.17
+        },
+        {
+          "route_key": "封渡榜墙市->雾泽黑契市",
+          "good_name": "保单底册",
+          "profit": 369.18
+        },
+        {
+          "route_key": "黑风矿兵市->断云关税市",
+          "good_name": "黑风皮",
+          "profit": 333.1
+        }
+      ],
+      "top_recipe_ids": [
+        {
+          "recipe_id": "rec_003",
+          "avg_margin": 0.6725
+        },
+        {
+          "recipe_id": "rec_010",
+          "avg_margin": 0.629
+        },
+        {
+          "recipe_id": "rec_009",
+          "avg_margin": 0.4762
+        },
+        {
+          "recipe_id": "rec_011",
+          "avg_margin": 0.4762
+        },
+        {
+          "recipe_id": "rec_006",
+          "avg_margin": 0.4551
+        }
+      ],
+      "segment_net": {
+        "seg_new_highan": 854.74,
+        "seg_casual_short_trade": 777.94,
+        "seg_growth_crafter": 3384.47,
+        "seg_hardcore_lowsec": 1397.69,
+        "seg_guild_logistics": 6496.87
+      }
+    },
+    "高税改线场景": {
+      "scenario_id": "高税改线场景",
+      "sink_source_ratio": 1.0503,
+      "profitable_route_count": 13,
+      "route_destination_concentration": 0.8571,
+      "reroute_rate": 0.4,
+      "inventory_backlog_ratio": 0.1138,
+      "heat_drift_index": 0.4493,
+      "recipe_margin_floor": 0.369,
+      "lowsec_skill_return": 1.2346,
+      "danger_skill_return": 1.0,
+      "danger_unskilled_floor": 1.0,
+      "system_sources": 3015.26,
+      "system_sinks": 3166.92,
+      "top_routes": [
+        {
+          "route_key": "黑风矿兵市->断云关税市",
+          "good_name": "黑风皮",
+          "profit": 1781.33
+        },
+        {
+          "route_key": "黑风矿兵市->断云关税市",
+          "good_name": "青钢锭",
+          "profit": 1585.83
+        },
+        {
+          "route_key": "黑风矿兵市->断云关税市",
+          "good_name": "黑铁矿",
+          "profit": 1350.12
+        },
+        {
+          "route_key": "听潮百工市->断云关税市",
+          "good_name": "白栎木箱",
+          "profit": 483.16
+        },
+        {
+          "route_key": "落雁脚行市->断云关税市",
+          "good_name": "镖银票",
+          "profit": 447.04
+        }
+      ],
+      "top_recipe_ids": [
+        {
+          "recipe_id": "rec_003",
+          "avg_margin": 0.5743
+        },
+        {
+          "recipe_id": "rec_009",
+          "avg_margin": 0.4762
+        },
+        {
+          "recipe_id": "rec_011",
+          "avg_margin": 0.4762
+        },
+        {
+          "recipe_id": "rec_010",
+          "avg_margin": 0.4297
+        },
+        {
+          "recipe_id": "rec_007",
+          "avg_margin": 0.4286
+        }
+      ],
+      "segment_net": {
+        "seg_new_highan": 894.59,
+        "seg_casual_short_trade": 925.26,
+        "seg_growth_crafter": 2840.76,
+        "seg_hardcore_lowsec": 2344.14,
+        "seg_guild_logistics": 5330.45
+      }
+    },
+    "高端资源挤压场景": {
+      "scenario_id": "高端资源挤压场景",
+      "sink_source_ratio": 0.9118,
+      "profitable_route_count": 22,
+      "route_destination_concentration": 0.2619,
+      "reroute_rate": 0.2791,
+      "inventory_backlog_ratio": 0.1084,
+      "heat_drift_index": 0.2012,
+      "recipe_margin_floor": 0.369,
+      "lowsec_skill_return": 1.1643,
+      "danger_skill_return": 1.3561,
+      "danger_unskilled_floor": 0.942,
+      "system_sources": 3182.78,
+      "system_sinks": 2901.93,
+      "top_routes": [
+        {
+          "route_key": "封渡榜墙市->雾泽黑契市",
+          "good_name": "保单底册",
+          "profit": 432.93
+        },
+        {
+          "route_key": "黑风矿兵市->断云关税市",
+          "good_name": "黑铁矿",
+          "profit": 411.14
+        },
+        {
+          "route_key": "黑风矿兵市->断云关税市",
+          "good_name": "青钢锭",
+          "profit": 398.24
+        },
+        {
+          "route_key": "黑风矿兵市->断云关税市",
+          "good_name": "黑风皮",
+          "profit": 381.32
+        },
+        {
+          "route_key": "临渚官仓市->青蒲药材市",
+          "good_name": "基础铁料",
+          "profit": 336.04
+        }
+      ],
+      "top_recipe_ids": [
+        {
+          "recipe_id": "rec_003",
+          "avg_margin": 0.5743
+        },
+        {
+          "recipe_id": "rec_010",
+          "avg_margin": 0.5373
+        },
+        {
+          "recipe_id": "rec_009",
+          "avg_margin": 0.4762
+        },
+        {
+          "recipe_id": "rec_011",
+          "avg_margin": 0.4762
+        },
+        {
+          "recipe_id": "rec_015",
+          "avg_margin": 0.4402
+        }
+      ],
+      "segment_net": {
+        "seg_new_highan": 847.33,
+        "seg_casual_short_trade": 713.04,
+        "seg_growth_crafter": 2994.66,
+        "seg_hardcore_lowsec": 1404.76,
+        "seg_guild_logistics": 4837.7
+      }
+    }
+  },
+  "metric_results": [
+    {
+      "metric_id": "sink_source_ratio",
+      "metric_name": "银两日回收与日注入比",
+      "target_min": 0.85,
+      "target_max": 0.95,
+      "actual": 0.9476,
+      "scenario_focus": "基线_7日",
+      "status": "PASS",
+      "notes": "首轮默认安全水位"
+    },
+    {
+      "metric_id": "profitable_route_count",
+      "metric_name": "长期可跑盈利线数量",
+      "target_min": 3.0,
+      "target_max": 99.0,
+      "actual": 22,
+      "scenario_focus": "基线_7日",
+      "status": "PASS",
+      "notes": "不能全部汇聚到同一子市场"
+    },
+    {
+      "metric_id": "route_destination_concentration",
+      "metric_name": "盈利线终点集中度",
+      "target_min": 0.0,
+      "target_max": 0.45,
+      "actual": 0.2619,
+      "scenario_focus": "基线_7日",
+      "status": "PASS",
+      "notes": "防止所有利润线只流向一个终点"
+    },
+    {
+      "metric_id": "reroute_rate",
+      "metric_name": "高税场景改线率",
+      "target_min": 0.2,
+      "target_max": 0.6,
+      "actual": 0.4,
+      "scenario_focus": "高税改线场景",
+      "status": "PASS",
+      "notes": "过低说明税压无感过高说明原线路崩坏"
+    },
+    {
+      "metric_id": "inventory_backlog_ratio",
+      "metric_name": "库存积压率",
+      "target_min": 0.0,
+      "target_max": 0.25,
+      "actual": 0.1117,
+      "scenario_focus": "基线_7日",
+      "status": "PASS",
+      "notes": "高于上限说明供需结构失衡"
+    },
+    {
+      "metric_id": "heat_drift_index",
+      "metric_name": "子市场热度偏移",
+      "target_min": 0.0,
+      "target_max": 0.35,
+      "actual": 0.2012,
+      "scenario_focus": "基线_7日",
+      "status": "PASS",
+      "notes": "观察是否出现单点吸血"
+    },
+    {
+      "metric_id": "recipe_margin_floor",
+      "metric_name": "配方最低毛利率",
+      "target_min": 0.05,
+      "target_max": 0.4,
+      "actual": 0.369,
+      "scenario_focus": "基线_7日",
+      "status": "PASS",
+      "notes": "用于排查理论成本倒挂"
+    },
+    {
+      "metric_id": "lowsec_skill_return",
+      "metric_name": "低安熟练净收益倍数",
+      "target_min": 1.1,
+      "target_max": 1.22,
+      "actual": 1.1643,
+      "scenario_focus": "基线_7日",
+      "status": "PASS",
+      "notes": "以低安熟练段对高安基线比较"
+    },
+    {
+      "metric_id": "danger_skill_return",
+      "metric_name": "危险区熟练净收益倍数",
+      "target_min": 1.3,
+      "target_max": 1.45,
+      "actual": 1.3561,
+      "scenario_focus": "基线_7日",
+      "status": "PASS",
+      "notes": "以危险区熟练段对高安基线比较"
+    },
+    {
+      "metric_id": "danger_unskilled_floor",
+      "metric_name": "危险区不熟练净收益底线",
+      "target_min": 0.88,
+      "target_max": 1.0,
+      "actual": 0.942,
+      "scenario_focus": "基线_7日",
+      "status": "PASS",
+      "notes": "低于下限说明挫败过强"
+    }
+  ]
+}

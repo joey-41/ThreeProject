@@ -1,0 +1,6 @@
+segment_id,daily_online_window,preferred_zone,preferred_activity,success_rate,loss_tolerance,capital_turnover
+seg_new_highan,15-25分钟,高安,离线采集+基础制造+本圈挂单,0.97,0.08,220
+seg_casual_short_trade,20-35分钟,高安/低安交界,短线跑商+普通货订单,0.91,0.12,380
+seg_growth_crafter,35-55分钟,高安/低安,制造跑商+价差倒货,0.89,0.15,520
+seg_hardcore_lowsec,60-90分钟,低安,护镖截运+山关争线,0.83,0.28,760
+seg_guild_logistics,75-110分钟,危险区,军需后勤+深区补给,0.90,0.22,900
